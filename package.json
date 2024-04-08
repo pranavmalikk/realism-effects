@@ -51,7 +51,7 @@
 	},
 	"peerDependencies": {
 		"postprocessing": "^6.34.1",
-		"three": "^0.151.3"
+		"three": "^0.162.0"
 	},
 	"prettier": {
 		"semi": false,
